@@ -13,9 +13,9 @@
 
 - É nesse contexto que este desafio propõe-se a:
 
-- Criar casos de uso que correspondam às operações de criar, buscar, listar e atualizar produtos no sistema;
+    - Criar casos de uso que correspondam às operações de criar, buscar, listar e atualizar produtos no sistema;
 
-- Implementar os testes unitários e de integração de cada caso de uso.
+    - Implementar os testes unitários e de integração de cada caso de uso.
 
 > N.T. 1: Linguagem de programação para este desafio: _TypeScript_.
 > N.T. 2: A solução para este desafio envolve criar a seguinte árvore de diretórios:
